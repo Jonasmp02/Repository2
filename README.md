@@ -1,3 +1,3 @@
 # Repository2
-Jonas Moen Pettersen
+Jonasmp02
 MacOS versjon 13.3
